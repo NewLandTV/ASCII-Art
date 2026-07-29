@@ -6,7 +6,7 @@ import cv2
 CHARS = ' .,-~:;=!*#$@' # 13
 nw = 100
 
-img = cv2.imread('imgs/286.jpg')
+img = cv2.imread('imgs/286.png')
 img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 h, w = img.shape
