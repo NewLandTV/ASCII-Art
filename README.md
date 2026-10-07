@@ -6,7 +6,10 @@ American Standard Code for Information Interchange.
 
 # References & Links(참고 및 링크)
 
-[참고 소스코드](https://github.com/kairess/ascii-art)
+- [참고 소스코드(C)](https://www.a1k0n.net/2011/07/20/donut-math.html)
+- [참고 소스코드(Python)](https://github.com/kairess/ascii-art)
+
+---
 
 - [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
 - [NewLand Cafe(New랜드 카페)](https://cafe.naver.com/2019newland)
